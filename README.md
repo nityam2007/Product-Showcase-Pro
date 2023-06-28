@@ -1,44 +1,64 @@
 # Product Showcase Pro
 
-Product Showcase Pro is a WordPress plugin that allows you to display products with WhatsApp redirect on your website. It provides a shortcode that generates a product listing with search and sorting functionality. Each product is linked to a WhatsApp conversation, making it easy for users to inquire about the product directly via WhatsApp.
+Product Showcase Pro is a powerful WordPress plugin that allows you to showcase your products in a professional and visually appealing manner.
 
-## Features
+## Description
 
-- Display products with images, titles, and prices
-- Integrated search functionality to find specific products
-- Sort products by title or date
-- Generate WhatsApp link with pre-filled message containing product details
-- Customizable settings for WhatsApp number and search/sort options
+Product Showcase Pro provides an easy and flexible way to create a product showcase on your WordPress website. With this plugin, you can highlight your products, display their images, prices, and descriptions, and even generate WhatsApp links for easy sharing.
 
 ## Installation
 
-1. Download the [Product Showcase Pro](https://github.com/your-username/product-showcase-pro) plugin from GitHub.
-2. Upload the plugin directory to the `/wp-content/plugins/` directory of your WordPress installation.
-3. Activate the plugin through the 'Plugins' menu in WordPress.
+1. Download the `product-showcase-pro.zip` file from the [releases](https://github.com/nityam2007/Product-Showcase-Pro/releases) page.
+2. Log in to your WordPress admin panel.
+3. Go to "Plugins" > "Add New".
+4. Click on the "Upload Plugin" button.
+5. Choose the `product-showcase-pro.zip` file and click "Install Now".
+6. Once installed, click on the "Activate" button to activate the plugin.
+
+## Features
+
+- Create a custom post type "Products" to manage your product showcase.
+- Add a meta box for product price to easily set and update the price.
+- Generate WhatsApp links with product details and your phone number for quick sharing.
+- Settings page to configure the WhatsApp number and enable/disable search and sorting functionality.
 
 ## Usage
 
-To display the product showcase on a page or post, use the following shortcode:
+1. After activating the plugin, a new "Products" menu will appear in your WordPress admin panel.
+2. Click on "Products" to manage your product showcase.
+3. Add new products by providing the title, description, image, and price information.
+4. Customize the product showcase by configuring the plugin settings in "Products" > "Settings".
+5. Use the generated WhatsApp links to share your products with customers.
+6. You can display the product showcase on any page or post using shortcodes or by directly embedding the provided PHP functions in your theme files.
 
-[product_showcase]
+For detailed usage instructions and shortcode examples, please refer to the [documentation](https://github.com/nityam2007/Product-Showcase-Pro/wiki).
 
+## Frequently Asked Questions
 
-## Settings
+Have questions? Check out the [FAQ section](https://github.com/nityam2007/Product-Showcase-Pro/wiki/FAQ) in the documentation for commonly asked questions and their answers.
 
-To access the plugin settings, go to 'Products' > 'Settings' in the WordPress admin menu. In the settings page, you can configure the following options:
+## Changelog
 
-- WhatsApp Number: Enter your WhatsApp number in international format without any spaces or special characters.
-- Enable Search: Enable or disable the search functionality for products.
-- Enable Sort: Enable or disable the sorting options for products.
+View the [changelog](https://github.com/nityam2007/Product-Showcase-Pro/blob/main/CHANGELOG.md) to see the version history and changes made in each release of the plugin.
 
 ## Support
 
-If you encounter any issues or have any questions, please create a new [issue](https://github.com/your-username/product-showcase-pro/issues) on the GitHub repository.
+For support and assistance, please reach out to our dedicated support team at support@yourwebsite.com or visit our [support forum](https://example.com/support-forum).
 
 ## Contributing
 
-Contributions are welcome! If you have any improvements or new features to add, feel free to submit a [pull request](https://github.com/your-username/product-showcase-pro/pulls).
+We welcome contributions from the community! If you have any bug reports, feature requests, or want to contribute to the codebase, please follow our [contribution guidelines](https://github.com/nityam2007/Product-Showcase-Pro/blob/main/CONTRIBUTING.md).
 
 ## License
 
-Product Showcase Pro is released under the [MIT License](https://opensource.org/licenses/MIT).
+Product Showcase Pro is released under the [MIT License](https://github.com/nityam2007/Product-Showcase-Pro/blob/main/LICENSE).
+
+## Credits
+
+- [FontAwesome](https://fontawesome.com) - Icons for the product showcase.
+- [WordPress](https://wordpress.org) - The powerful content management system.
+- [jQuery](https://jquery.com) - The JavaScript library used for interactivity.
+
+## Disclaimer
+
+This plugin is provided "as is" without any warranty. We are not responsible for any damages or issues caused by the use of this plugin.
