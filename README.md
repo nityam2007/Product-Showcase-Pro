@@ -43,7 +43,7 @@ View the [changelog](https://github.com/nityam2007/Product-Showcase-Pro/blob/mai
 
 ## Support
 
-For support and assistance, please reach out to our dedicated support team at support@yourwebsite.com or visit our [support forum](https://example.com/support-forum).
+For support and assistance, please reach out to our dedicated support team at no-reply@nsheth.in .
 
 ## Contributing
 
