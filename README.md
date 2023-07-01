@@ -30,6 +30,7 @@ Product Showcase Pro provides an easy and flexible way to create a product showc
 4. Customize the product showcase by configuring the plugin settings in "Products" > "Settings".
 5. Use the generated WhatsApp links to share your products with customers.
 6. You can display the product showcase on any page or post using shortcodes or by directly embedding the provided PHP functions in your theme files.
+7. use this shortcode [product_showcase]  on your page to get it view 
 
 For detailed usage instructions and shortcode examples, please refer to the [documentation](https://github.com/nityam2007/Product-Showcase-Pro/wiki).
 
