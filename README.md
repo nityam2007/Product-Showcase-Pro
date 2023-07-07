@@ -15,6 +15,10 @@ Product Showcase Pro provides an easy and flexible way to create a product showc
 5. Choose the `product-showcase-pro.zip` file and click "Install Now".
 6. Once installed, click on the "Activate" button to activate the plugin.
 
+7. and use short code on any of the page
+8.   [product_showcase] 
+9. 
+
 ## Features
 
 - Create a custom post type "Products" to manage your product showcase.
