@@ -17,7 +17,6 @@ Product Showcase Pro provides an easy and flexible way to create a product showc
 
 7. and use short code on any of the page
 8.   [product_showcase] 
-9. 
 
 ## Features
 
